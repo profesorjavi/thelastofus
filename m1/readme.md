@@ -4,6 +4,8 @@ En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han ag
 
 En un mundo donde la comunicación es vital para la supervivencia, los héroes de la Zona de Cuarentena Alpha deben extender su red para ayudar a sus vecinos en la Zona de Cuarentena Beta. Con cada conexión establecida, no solo fortalecen su propia seguridad, sino que también crean un lazo de esperanza y colaboración en un mundo devastado. ¿Estáis listos para aceptar el desafío y convertir a la Zona de Cuarentena Beta en un aliado conectado?
 
+![Imagen del episodio](./img/p1.jfif)
+
 #### Instrucciones:
 
 1. **Preparación de las Máquinas Virtuales:**
