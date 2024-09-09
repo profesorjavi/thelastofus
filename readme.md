@@ -5,6 +5,3 @@
 [Episodio 1](./m1)
 
 [Episodio 2](./m1/p2.md)
-
-[Episodio 3](./m1/p3)
-
