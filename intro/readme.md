@@ -3,4 +3,4 @@ Bienvenidos, supervivientes. En un mundo devastado por una pandemia, la humanida
 
 Vuestra misión, si decidís aceptarla, es convertiros en los héroes que estos poblados necesitan. A lo largo de los próximos meses, enfrentaréis una serie de misiones críticas que pondrán a prueba vuestras habilidades en la configuración y gestión de servicios en red. Cada misión completada no solo os acercará a la victoria, sino que también garantizará la seguridad y el bienestar de los supervivientes.
 
-.[imagen el poblado central](./img/pobladobase.jfif)
+![imagen el poblado central](./img/pobladobase.jfif)
