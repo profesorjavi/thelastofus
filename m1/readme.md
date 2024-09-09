@@ -1,6 +1,5 @@
 ### Misión1: **"El Enlace Vital. Parte 1"**
 
-#### Contexto:
 En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han agrupado en pequeñas zonas de cuarentena para protegerse y sobrevivir. El poblado en el que se os encontráis, conocido como **"Zona de Cuarentena Alpha"**, dispone de conexión a internet. Sin embargo, el poblado vecino, **"Zona de Cuarentena Beta"**, aunque tiene la infraestructura necesaria, no puede acceder a internet. Para que la Zona de Cuarentena Beta pueda conectarse a internet, debéis configurar un dispositivo en la Zona de Cuarentena Alpha para que funcione como router.
 
 En un mundo donde la comunicación es vital para la supervivencia, los héroes de la Zona de Cuarentena Alpha deben extender su red para ayudar a sus vecinos en la Zona de Cuarentena Beta. Con cada conexión establecida, no solo fortalecen su propia seguridad, sino que también crean un lazo de esperanza y colaboración en un mundo devastado. ¿Estáis listos para aceptar el desafío y convertir a la Zona de Cuarentena Beta en un aliado conectado?
@@ -46,4 +45,3 @@ En un mundo donde la comunicación es vital para la supervivencia, los héroes d
    - **Prueba de Conexión:** Desde un equipo cliente en la Zona de Cuarentena Beta, realiza pruebas de navegación para asegurarte de que pueden acceder a internet correctamente.
    - **Ping:** Realiza un ping a una dirección externa (por ejemplo, 8.8.8.8) para verificar la conectividad.
 
-# Repaso de redes
