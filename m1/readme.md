@@ -1,4 +1,4 @@
-### Misión 1: **"El Enlace Vital. Parte 1"**
+### Misión 1: **"El Enlace Vital. Episodio 1"**
 
 En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han agrupado en pequeñas zonas de cuarentena para protegerse y sobrevivir. El poblado en el que se os encontráis, conocido como **"Zona de Cuarentena Alpha"**, dispone de conexión a internet. Sin embargo, el poblado vecino, **"Zona de Cuarentena Beta"**, aunque tiene la infraestructura necesaria, no puede acceder a internet. Para que la Zona de Cuarentena Beta pueda conectarse a internet, debéis configurar un dispositivo en la Zona de Cuarentena Alpha para que funcione como router.
 
