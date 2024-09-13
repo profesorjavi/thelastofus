@@ -33,6 +33,7 @@ En un mundo donde la comunicación es vital para la supervivencia, los héroes d
 
 5. **Revisión del Concepto de NAT:**
    - **Video Tutorial:** Mira el video tutorial proporcionado y repasa el concepto de NAT (Network Address Translation). Este concepto es fundamental para permitir que múltiples dispositivos en la Zona de Cuarentena Beta accedan a internet a través del Enrutador Alpha.
+   [Tutorial de NAT](https://youtu.be/sGdhakDeQyo)
 
 6. **Configuración de DNS:**
    - **DNS Conselleria:** Configura los DNS en la interfaz de red de los equipos clientes en la Zona de Cuarentena Beta. Utiliza las siguientes direcciones DNS:
@@ -41,7 +42,7 @@ En un mundo donde la comunicación es vital para la supervivencia, los héroes d
 
 7. **Configuración Persistente de NAT:**
    - **Persistencia:** Asegúrate de que la configuración de NAT quede de manera persistente en el Enrutador Alpha. Esto garantizará que la conexión a internet se mantenga estable y no se pierda tras un reinicio.
-   - **Tutorial:** Sigue las instrucciones del tutorial en el siguiente enlace para configurar NAT de manera persistente: [Tutorial de NAT](https://youtu.be/sGdhakDeQyo).
+   - **Tutorial:** Sigue las instrucciones del tutorial anterior para configurar NAT de manera persistente: .
 
 8. **Verificación del Funcionamiento:**
    - **Prueba de Conexión:** Desde un equipo cliente en la Zona de Cuarentena Beta, realiza pruebas de navegación para asegurarte de que pueden acceder a internet correctamente.
