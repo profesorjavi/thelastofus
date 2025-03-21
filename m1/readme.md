@@ -16,7 +16,9 @@ En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han ag
 
 2. **Paso 1: Configuración de IP Estática**
    - **Ubuntu Server (US):** Configura la IP estática para cada adaptador de red interna modificando el archivo de netplan.
-   - **Xubuntu:** Configura la IP estática del adaptador de red interna utilizando la interfaz gráfica.
+   - **Xubuntu Alpha:** Configura la IP estática del adaptador de red interna utilizando la interfaz gráfica.
+   - **Xubuntu Beta:** Configura la IP estática del adaptador de red interna utilizando la interfaz gráfica.
+
    - **Verificación:** Comprueba la conectividad haciendo un ping entre ambas máquinas.
 
 3. **Paso 2: Verificación del Adaptador Puente**
@@ -27,27 +29,24 @@ En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han ag
    - **Modificación:** Modifica el parámetro indicado en el tutorial para que US funcione como enrutador.
 
 5. **Paso 4: Comprobación del Funcionamiento**
-   - **Xubuntu:** Desde la máquina de Xubuntu, haz un ping a la IP de la interfaz del adaptador puente de la máquina US para comprobar que la configuración es correcta.
+   - **Xubuntu:** Desde las máquinas de Xubuntu, haz un ping a la IP de la interfaz del adaptador puente de la máquina US para comprobar que la configuración es correcta.
 
-#### Nombres de los Dispositivos:
-- **Ubuntu Server (US):** **"RAlpha"**
-- **Xubuntu:** **"CAlpha1"**
-- **Xubuntu:** **"CBeta1"**
 
-5. **Revisión del Concepto de NAT:**
-   - **Video Tutorial:** Mira el video tutorial proporcionado y repasa el concepto de NAT (Network Address Translation). Este concepto es fundamental para permitir que múltiples dispositivos en la Zona de Cuarentena Beta accedan a internet a través del Enrutador Alpha.
+
+### Revisión del Concepto de NAT
+6.  - **Paso 6. Video Tutorial:** Mira el video tutorial proporcionado y repasa el concepto de NAT (Network Address Translation). Este concepto es fundamental para permitir que múltiples dispositivos en la Zona de Cuarentena Beta accedan a internet a través del Enrutador Alpha.
    [Tutorial de NAT](https://youtu.be/sGdhakDeQyo)
 
-6. **Configuración de DNS:**
+7. **Paso 7. Configuración de DNS:**
    - **DNS Conselleria:** Configura los DNS en la interfaz de red de los equipos clientes en la Zona de Cuarentena Beta. Utiliza las siguientes direcciones DNS:
      - **Primario:** 10.239.3.7
      - **Secundario:** 10.239.3.8
 
-7. **Configuración Persistente de NAT:**
+8. **Paso 8. Configuración Persistente de NAT:**
    - **Persistencia:** Asegúrate de que la configuración de NAT quede de manera persistente en el Enrutador Alpha. Esto garantizará que la conexión a internet se mantenga estable y no se pierda tras un reinicio.
    - **Tutorial:** Sigue las instrucciones del tutorial anterior para configurar NAT de manera persistente: .
 
-8. **Verificación del Funcionamiento:**
+9. **Verificación del Funcionamiento:**
    - **Prueba de Conexión:** Desde un equipo cliente en la Zona de Cuarentena Alpha y otro de la zona de cuarentena Beta, realiza pruebas de navegación para asegurarte de que pueden acceder a internet correctamente.
    - **Ping:** Realiza un ping a una dirección externa (por ejemplo, 8.8.8.8) para verificar la conectividad.
 
