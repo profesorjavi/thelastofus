@@ -1,6 +1,6 @@
 ### Misión 1: **"El Enlace Vital. Episodio 1"**
 
-En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han agrupado en pequeñas zonas de cuarentena para protegerse y sobrevivir. El poblado en el que se os encontráis, conocido como **"Zona de Cuarentena Alpha"**, puede disponer de conexión a internet. Sin embargo, el poblado vecino, **"Zona de Cuarentena Beta"**, aunque tiene la infraestructura necesaria, no tiene a nadie capaz de realizar configuraciones efectivas. Para que la Zona de Cuarentena Alpha y Beta puedan conectarse a internet, debéis configurar un dispositivo en la para que funcione como router.
+En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han agrupado en pequeñas zonas de cuarentena para protegerse y sobrevivir. El poblado en el que se os encontráis, conocido como **"Zona de Cuarentena Alpha"**, puede disponer de conexión a internet. Sin embargo, el poblado vecino, **"Zona de Cuarentena Beta"**, aunque tiene la infraestructura necesaria, no tiene a nadie capaz de realizar configuraciones efectivas. Para que la Zona de Cuarentena Alpha y Beta puedan conectarse a internet, debéis configurar un dispositivo que funcione como router.
 
 
 
@@ -24,17 +24,19 @@ En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han ag
 3. **Paso 2: Verificación del Adaptador Puente**
    - **Ubuntu Server (US):** Asegúrate de que el adaptador puente funciona correctamente. Haz un ping desde el servidor a la máquina anfitrión.
 
+### Concepto de Enrutar
+
 4. **Paso 3: Configuración del Enrutador**
    - **Tutorial:** Revisa el video tutorial proporcionado. https://youtu.be/fO-n3vbdBY8
    - **Modificación:** Modifica el parámetro indicado en el tutorial para que US funcione como enrutador.
 
 5. **Paso 4: Comprobación del Funcionamiento**
-   - **Xubuntu:** Desde las máquinas de Xubuntu, haz un ping a la IP de la interfaz del adaptador puente de la máquina US para comprobar que la configuración es correcta.
+   - **Xubuntus:** Desde las máquinas de Xubuntu, haz un ping a la IP de la interfaz del adaptador puente de la máquina US para comprobar que la configuración es correcta.
 
 
 
-### Revisión del Concepto de NAT
-6.  - **Paso 6. Video Tutorial:** Mira el video tutorial proporcionado y repasa el concepto de NAT (Network Address Translation). Este concepto es fundamental para permitir que múltiples dispositivos en la Zona de Cuarentena Beta accedan a internet a través del Enrutador Alpha.
+### Concepto de NAT
+6. **Paso 6. Video Tutorial:** Mira el video tutorial proporcionado y repasa el concepto de NAT (Network Address Translation). Este concepto es fundamental para permitir que múltiples dispositivos en la Zona de Cuarentena Beta accedan a internet a través del Enrutador Alpha.
    [Tutorial de NAT](https://youtu.be/sGdhakDeQyo)
 
 7. **Paso 7. Configuración de DNS:**
@@ -55,3 +57,6 @@ En el mundo post-apocalíptico de "The Last of Us", los supervivientes se han ag
 AYUDA
 
 ![Esquema](./img/virtual_box.png)
+
+
+También puede servirte como ayuda ver como se traslada de virtual box a la "realidad"(GNS3) [Esquema GNS3-VirtualBox](./img/gns3-Vbox.jpg)
