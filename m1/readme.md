@@ -60,3 +60,35 @@ AYUDA
 
 
 También puede servirte como ayuda ver como se traslada de virtual box a la "realidad"(GNS3) [Esquema GNS3-VirtualBox](./img/gns3-Vbox.jpg)
+
+
+### No olvides que dominas la situación.
+
+1. ¿Cómo se puede saber si el equipo tiene habilitado el enrutamiento IP?
+2. ¿Cómo se puede comprobar si existen reglas NAT configuradas?
+3. ¿Cómo se puede eliminar una configuración NAT incorrecta?
+4. Comprobación de conectividad con ping/nmap
+
+      Desde un equipo cliente realiza las siguientes pruebas:
+      
+      Ping a su puerta de enlace.
+      Ping a una máquina de otra red.
+      Ping a una dirección pública (por ejemplo, un servidor DNS).
+      
+      Pregunta:
+      
+      ¿En qué salto se pierde la conectividad si el ping falla?
+      ¿Qué conclusiones puedes extraer?
+
+5. Comprobación de conectividad con ping
+
+      Desde un equipo cliente realiza las siguientes pruebas:
+      
+      Ping a su puerta de enlace.
+      Ping a una máquina de otra red.
+      Ping a una dirección pública (por ejemplo, un servidor DNS).
+      
+      Pregunta:
+      
+      ¿En qué salto se pierde la conectividad si el ping falla?
+      ¿Qué conclusiones puedes extraer?
